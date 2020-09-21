@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","596ad3dc06dfb78ecdc6bcee1d653f04"],["images/default-receipt.png","14ef509ae3504333529fc5686906de39"],["index.html","4c6576996b9a05b30847f88c62f8f9d2"],["manifest.json","a2c06b53bd52c3a70f783e84c0b4f5df"],["src/expense-app.html","6e74b2632d4626b1bbc917a1db9f7bfe"],["src/login-page.html","ea9d2e7784cfa23c28a30da397445029"],["src/overview-page.html","e6a38d5abc7eac6fb84ef034f852c548"]];
+var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","596ad3dc06dfb78ecdc6bcee1d653f04"],["images/default-receipt.png","14ef509ae3504333529fc5686906de39"],["index.html","4c6576996b9a05b30847f88c62f8f9d2"],["manifest.json","a2c06b53bd52c3a70f783e84c0b4f5df"],["src/expense-app.html","6e74b2632d4626b1bbc917a1db9f7bfe"],["src/login-page.html","ce1bfa8ba4d7d13b4d2f196dfd0feeb9"],["src/overview-page.html","e6a38d5abc7eac6fb84ef034f852c548"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
